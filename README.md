@@ -27,7 +27,7 @@ Como este script no tiene dependencias externas, no necesitas instalar nada. Sol
 
 Clona este repositorio:
    ```bash
-   git clone [https://github.com/FutureCone07/Similitud-de-Texto](https://github.com/FutureCone07/Similitud-de-Texto.git)
+   git clone https://github.com/FutureCone07/Similitud-de-Texto.git
    ```
 ## 🚀 Modo de Uso
 
