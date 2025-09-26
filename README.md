@@ -28,7 +28,7 @@ Como este script no tiene dependencias externas, no necesitas instalar nada. Sol
 Clona este repositorio:
    ```bash
    git clone [https://github.com/FutureCone07/Similitud-de-Texto](https://github.com/FutureCone07/Similitud-de-Texto.git)
-
+   ```
 ## 🚀 Modo de Uso
 
 Ejecuta el script desde tu terminal. El programa te pedirá que ingreses las dos frases que deseas comparar.
