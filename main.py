@@ -14,9 +14,9 @@ def contar_palabras(fraseParaAnalizar):
 def calcular_producto_punto(arreglo1, arreglo2):
     pP = 0
     for clv,value in arreglo1.items():
-        for clv2,value2 in arreglo2.items():
-            if(clv == clv2):
-                pP += value*value2
+        value2 = arreglo2.get(clv, 0)
+        if value2 > 0:
+            pP += value * value2
     return pP
 #Calcular la magnitud
 def calcular_magnitud(arreglo):
